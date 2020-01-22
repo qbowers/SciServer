@@ -1,0 +1,32 @@
+name = Gwenson Kerman
+gender = Female
+type = Crew
+trait = Pilot
+brave = 0.521673441
+dumb = 0.204715058
+badS = False
+veteran = False
+tour = False
+state = Available
+inactive = False
+inactiveTimeEnd = 0
+gExperienced = 0
+outDueToG = False
+ToD = 0
+idx = -1
+extraXP = 0
+hasHelmetOn = False
+hasNeckRingOn = False
+lightR = 1
+lightG = 0.5176
+lightB = 0
+completedFirstEVA = False
+hero = False
+CAREER_LOG
+{
+	flight = 0
+}
+FLIGHT_LOG
+{
+	flight = 0
+}

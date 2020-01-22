@@ -1,0 +1,56 @@
+[20:52:20][DEBUG] : Loading settings...
+[20:52:20][DEBUG] : Loading plugins!
+[20:52:20][DEBUG] : Done!
+[20:52:20][INFO] : Starting DMPServer v0.3.4.1, protocol 53
+[20:52:20][DEBUG] : Loading gameplay settings...
+[20:52:20][INFO] : Loading universe... 
+[20:52:20][INFO] : Starting MCW_LOWEST server on port 6702... 
+[20:52:20][INFO] : Removed 0 debris
+[20:52:21][DEBUG] : Starting mesh server
+[20:52:21][INFO] : Ready!
+[20:53:56][DEBUG] : Online players is now: 0, connected: 1
+[20:53:56][INFO] : New client connection from [::ffff:127.0.0.1]:50116
+[20:53:56][DEBUG] : Client tmightyquinn registered!
+[20:53:56][DEBUG] : Loading admins
+[20:53:56][DEBUG] : Saving admins
+[20:53:56][INFO] : Client tmightyquinn handshook successfully, version: v0.3.4.0
+[20:53:56][DEBUG] : Online players is now: 1, connected: 1
+[20:53:56][DEBUG] : Sending groups to tmightyquinn
+[20:53:56][DEBUG] : Sending permissions to tmightyquinn
+[20:53:56][DEBUG] : Sending tmightyquinn to subspace 0
+[20:53:56][DEBUG] : Sending tmightyquinn 0 craft library entries
+[20:53:56][DEBUG] : Sending tmightyquinn 0 kerbals...
+[20:53:56][DEBUG] : Sending tmightyquinn 0 vessels, cached: 0...
+[20:53:56][DEBUG] : Saving kerbal Jebediah Kerman from tmightyquinn
+[20:53:56][DEBUG] : Saving kerbal Bill Kerman from tmightyquinn
+[20:53:56][DEBUG] : Saving kerbal Bob Kerman from tmightyquinn
+[20:53:56][DEBUG] : Saving kerbal Valentina Kerman from tmightyquinn
+[20:53:56][DEBUG] : Saving kerbal Minidou Kerman from tmightyquinn
+[20:53:56][DEBUG] : Saving kerbal Thommund Kerman from tmightyquinn
+[20:53:56][DEBUG] : Saving kerbal Rosford Kerman from tmightyquinn
+[20:53:56][DEBUG] : Saving kerbal Sambert Kerman from tmightyquinn
+[20:53:56][DEBUG] : Saving kerbal Leabart Kerman from tmightyquinn
+[20:53:56][DEBUG] : Saving kerbal Verlorf Kerman from tmightyquinn
+[20:53:56][DEBUG] : Saving kerbal Natason Kerman from tmightyquinn
+[20:53:56][DEBUG] : Saving kerbal Jersby Kerman from tmightyquinn
+[20:53:56][DEBUG] : Saving kerbal Didas Kerman from tmightyquinn
+[20:53:56][DEBUG] : Saving kerbal James Kerman from tmightyquinn
+[20:53:56][DEBUG] : Saving kerbal Desemy Kerman from tmightyquinn
+[20:53:56][DEBUG] : Saving kerbal Sigman Kerman from tmightyquinn
+[20:53:56][DEBUG] : Saving kerbal Gwenson Kerman from tmightyquinn
+[20:53:56][DEBUG] : Saving kerbal Seanmore Kerman from tmightyquinn
+[20:53:56][DEBUG] : Saving kerbal Roscas Kerman from tmightyquinn
+[20:53:56][DEBUG] : Saving kerbal Adman Kerman from tmightyquinn
+[20:54:03][DEBUG] : Saving 15 scenario modules from tmightyquinn
+[20:54:03][DEBUG] : tmightyquinn acquired lock asteroid-spawning
+[20:54:18][DEBUG] : Sending permissions to everyone, vessel: 3354f3ad-ec8a-4cf2-a535-4a09e8af6604
+[20:54:18][DEBUG] : Saving vessel 3354f3ad-ec8a-4cf2-a535-4a09e8af6604 from tmightyquinn
+[20:54:33][DEBUG] : Saving 3 scenario modules from tmightyquinn
+[20:54:52][DEBUG] : tmightyquinn sent connection end message, reason: Quit
+[20:54:52][DEBUG] : Online players is now: 0, connected: 0
+[20:56:17][INFO] : Command input: 
+[20:56:17][INFO] : Command input: 
+[20:56:18][DEBUG] : Terminal may be not attached or broken, Exiting out of command handler
+[20:56:19][INFO] : Shutting down - Caught Ctrl+C
+[20:56:19][DEBUG] : Stopping mesh server
+[20:56:19][DEBUG] : Terminating!

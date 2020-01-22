@@ -1,0 +1,115 @@
+pid = 3354f3adec8a4cf2a5354a09e8af6604
+persistentId = 2121140240
+name = Ast. XUC-428
+type = SpaceObject
+sit = ORBITING
+landed = False
+skipGroundPositioning = False
+vesselSpawning = True
+launchedFrom = 
+landedAt = 
+displaylandedAt = 
+splashed = False
+met = 2416.8066677999873
+lct = 2416.8066677999873
+lastUT = -1
+distanceTraveled = 0
+root = 0
+lat = 1.1813661914104325
+lon = -176.52362906460814
+alt = 15686212403.777067
+hgt = -1
+nrm = 0,1,0
+rot = 0.323410153,-0.406737894,0.82250917,0.231189951
+CoM = 0,0,0
+stg = 0
+prst = False
+ref = 0
+ctrl = False
+PQSMin = 0
+PQSMax = 0
+GroupOverride = 0
+OverrideDefault = False,False,False,False
+OverrideActionControl = 0,0,0,0
+OverrideAxisControl = 0,0,0,0
+OverrideGroupNames = ,,,
+altDispState = DEFAULT
+ORBIT
+{
+	SMA = 15925025198.942045
+	ECC = 0.14694943776743344
+	INC = 1.1833838753849391
+	LPE = 185.65560365363839
+	LAN = 98.837137668112177
+	MNA = -0.082649103541180838
+	EPH = 2509862.5097928001
+	REF = 0
+}
+PART
+{
+	name = PotatoRoid
+	cid = 0
+	uid = 1245471819
+	mid = 1245471819
+	persistentId = 649360798
+	launchID = 0
+	parent = 0
+	position = 0,0,0
+	rotation = 0,0,0,1
+	mirror = 1,1,1
+	symMethod = Radial
+	istg = 0
+	resPri = 0
+	dstg = 0
+	sqor = 0
+	sepI = 0
+	sidx = 0
+	attm = 0
+	sameVesselCollision = False
+	srfN = None, -1
+	mass = 150
+	shielded = False
+	temp = -1
+	tempExt = 0
+	tempExtUnexp = 0
+	staticPressureAtm = 0
+	expt = 1
+	state = 0
+	attached = True
+	autostrutMode = Off
+	rigidAttachment = False
+	flag = 
+	rTrf = 
+	modCost = 0
+}
+ACTIONGROUPS
+{
+}
+DISCOVERY
+{
+	state = 1
+	lastObservedTime = 2416.8066677999873
+	lifetime = 126424.89624023438
+	refTime = 1728000
+	size = 2
+}
+FLIGHTPLAN
+{
+}
+CTRLSTATE
+{
+}
+VESSELMODULES
+{
+	FlightIntegrator
+	{
+	}
+	AxisGroupsModule
+	{
+	}
+	CommNetVessel
+	{
+		controlState = None
+		canComm = True
+	}
+}

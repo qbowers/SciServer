@@ -1,0 +1,17 @@
+name = ResearchAndDevelopment
+scene = 7, 8, 5, 6
+sci = 18468
+Tech
+{
+	id = start
+	state = Available
+	cost = 0
+	part = basicFin
+	part = mk1pod
+	part = mk1pod.v2
+	part = solidBooster.sm.v2
+	part = solidBooster.sm
+	part = GooExperiment
+	part = trussPiece1x
+	part = parachuteSingle
+}

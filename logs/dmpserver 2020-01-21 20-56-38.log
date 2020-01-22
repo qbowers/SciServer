@@ -1,0 +1,27 @@
+[20:56:38][DEBUG] : Loading settings...
+[20:56:38][DEBUG] : Loading plugins!
+[20:56:38][DEBUG] : Done!
+[20:56:38][INFO] : Starting DMPServer v0.3.4.1, protocol 53
+[20:56:38][DEBUG] : Loading gameplay settings...
+[20:56:38][INFO] : Loading universe... 
+[20:56:38][INFO] : Starting MCW_LOWEST server on port 6702... 
+[20:56:38][INFO] : Removed 0 debris
+[20:56:39][DEBUG] : Starting mesh server
+[20:56:39][INFO] : Ready!
+[20:56:49][DEBUG] : Online players is now: 0, connected: 1
+[20:56:49][INFO] : New client connection from [::ffff:127.0.0.1]:50137
+[20:56:49][DEBUG] : Loading admins
+[20:56:49][INFO] : Client tmightyquinn handshook successfully, version: v0.3.4.0
+[20:56:49][DEBUG] : Online players is now: 1, connected: 1
+[20:56:49][INFO] : Disconnected [::ffff:127.0.0.1]:50137
+[20:56:49][DEBUG] : Online players is now: 0, connected: 0
+[20:58:05][DEBUG] : Online players is now: 0, connected: 1
+[20:58:05][INFO] : Client tmightyquinn handshook successfully, version: v0.3.4.0
+[20:58:05][INFO] : New client connection from [::ffff:127.0.0.1]:50138
+[20:58:05][DEBUG] : Online players is now: 1, connected: 1
+[20:58:05][INFO] : Disconnected [::ffff:127.0.0.1]:50138
+[20:58:05][DEBUG] : Online players is now: 0, connected: 0
+[20:58:14][DEBUG] : Terminal may be not attached or broken, Exiting out of command handler
+[20:58:14][INFO] : Shutting down - Caught Ctrl+C
+[20:58:14][DEBUG] : Stopping mesh server
+[20:58:15][DEBUG] : Terminating!

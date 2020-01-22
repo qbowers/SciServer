@@ -1,0 +1,28 @@
+[21:04:37][DEBUG] : Loading settings...
+[21:04:37][DEBUG] : Loading plugins!
+[21:04:37][DEBUG] : Done!
+[21:04:37][INFO] : Starting DMPServer v0.3.4.1, protocol 53
+[21:04:37][DEBUG] : Loading gameplay settings...
+[21:04:37][INFO] : Loading universe... 
+[21:04:37][INFO] : Starting MCW_LOWEST server on port 6702... 
+[21:04:37][INFO] : Removed 0 debris
+[21:04:37][DEBUG] : Starting mesh server
+[21:04:37][INFO] : Ready!
+[21:05:03][DEBUG] : Online players is now: 0, connected: 1
+[21:05:03][INFO] : New client connection from [::ffff:127.0.0.1]:50186
+[21:05:03][DEBUG] : Loading admins
+[21:05:03][INFO] : Client tmightyquinn handshook successfully, version: v0.3.4.0
+[21:05:03][DEBUG] : Online players is now: 1, connected: 1
+[21:05:03][DEBUG] : Sending groups to tmightyquinn
+[21:05:03][DEBUG] : Sending permissions to tmightyquinn
+[21:05:03][DEBUG] : Sending tmightyquinn to subspace 0
+[21:05:03][DEBUG] : Sending tmightyquinn 0 craft library entries
+[21:05:03][DEBUG] : Sending tmightyquinn 20 kerbals...
+[21:05:03][DEBUG] : Sending tmightyquinn 0 vessels, cached: 1...
+[21:05:08][DEBUG] : tmightyquinn acquired lock asteroid-spawning
+[21:05:16][DEBUG] : tmightyquinn sent connection end message, reason: Quit
+[21:05:16][DEBUG] : Online players is now: 0, connected: 0
+[21:05:49][DEBUG] : Terminal may be not attached or broken, Exiting out of command handler
+[21:05:49][INFO] : Shutting down - Caught Ctrl+C
+[21:05:49][DEBUG] : Stopping mesh server
+[21:05:50][INFO] : Goodbye!
