@@ -1,0 +1,14 @@
+[20:27:25][DEBUG] : Loading settings...
+[20:27:25][DEBUG] : Loading plugins!
+[20:27:25][DEBUG] : Done!
+[20:27:25][INFO] : Starting DMPServer v0.3.4.1, protocol 53
+[20:27:25][DEBUG] : Loading gameplay settings...
+[20:27:25][INFO] : Loading universe... 
+[20:27:25][INFO] : Starting MCW_LOWEST server on port 6702... 
+[20:27:25][INFO] : Removed 0 debris
+[20:27:26][DEBUG] : Starting mesh server
+[20:27:26][INFO] : Ready!
+[20:27:29][DEBUG] : Terminal may be not attached or broken, Exiting out of command handler
+[20:27:29][INFO] : Shutting down - Caught Ctrl+C
+[20:27:29][DEBUG] : Stopping mesh server
+[20:27:29][INFO] : Goodbye!

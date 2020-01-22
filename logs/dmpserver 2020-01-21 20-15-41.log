@@ -1,0 +1,14 @@
+[20:15:41][DEBUG] : Loading settings...
+[20:15:41][DEBUG] : Loading plugins!
+[20:15:41][DEBUG] : Done!
+[20:15:41][INFO] : Starting DMPServer v0.3.4.1, protocol 53
+[20:15:41][INFO] : Loading universe... 
+[20:15:41][INFO] : Starting SUBSPACE server on port 6702... 
+[20:15:41][DEBUG] : Creating new subspace lock file
+[20:15:41][INFO] : Removed 0 debris
+[20:15:42][DEBUG] : Starting mesh server
+[20:15:42][INFO] : Ready!
+[20:21:25][DEBUG] : Terminal may be not attached or broken, Exiting out of command handler
+[20:21:25][INFO] : Shutting down - Caught Ctrl+C
+[20:21:25][DEBUG] : Stopping mesh server
+[20:21:25][INFO] : Goodbye!
