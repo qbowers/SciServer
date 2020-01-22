@@ -1,6 +1,6 @@
 name = ResearchAndDevelopment
 scene = 7, 8, 5, 6
-sci = 18468
+sci = 0
 Tech
 {
 	id = start
@@ -14,4 +14,768 @@ Tech
 	part = GooExperiment
 	part = trussPiece1x
 	part = parachuteSingle
+}
+Tech
+{
+	id = basicRocketry
+	state = Available
+	cost = 5
+	part = fuelTankSmallFlat
+	part = solidBooster
+	part = solidBooster.v2
+	part = liquidEngine2
+}
+Tech
+{
+	id = engineering101
+	state = Available
+	cost = 5
+	part = SurfAntenna
+	part = longAntenna
+	part = sensorThermometer
+	part = Decoupler.1
+}
+Tech
+{
+	id = stability
+	state = Available
+	cost = 18
+	part = radialDecoupler
+	part = winglet
+	part = noseCone
+}
+Tech
+{
+	id = survivability
+	state = Available
+	cost = 15
+	part = HexCanLifeSupportWasteSmall
+	part = HexCanLifeSupportWaste
+	part = HexCanLifeSupportSmall
+	part = HexCanLifeSupport
+	part = HexCanFoodSmall
+	part = HexCanFood
+	part = HexCanDrinkingWaterSmall
+	part = HexCanDrinkingWater
+	part = HexCanOxygenSmall
+	part = HexCanOxygen
+	part = TacWaterContainerSmall
+	part = TacWaterContainer
+	part = TacWasteContainerSmall
+	part = TacWasteContainer
+	part = TacOxygenContainerSmall
+	part = TacOxygenContainer
+	part = TacLifeSupportContainerSmall
+	part = TacLifeSupportContainer
+	part = TacFoodContainerSmall
+	part = TacFoodContainer
+	part = ServiceBay.125.v2
+	part = ServiceBay.125
+	part = parachuteRadial
+	part = radialDrogue
+	part = miniLandingLeg
+	part = radPanelSm
+	part = sensorBarometer
+	part = HeatShield1
+	part = HeatShield0
+}
+Tech
+{
+	id = flightControl
+	state = Available
+	cost = 45
+	part = sasModule
+	part = winglet3
+	part = R8winglet
+}
+Tech
+{
+	id = basicScience
+	state = Available
+	cost = 45
+	part = HighGainAntenna5
+	part = radPanelLg
+	part = radPanelEdge
+	part = ScienceBox
+	part = science.module
+	part = batteryPack
+	part = probeCoreSphere.v2
+	part = probeCoreSphere
+}
+Tech
+{
+	id = advFlightControl
+	state = Available
+	cost = 90
+	part = RCSBlock.v2
+	part = RCSBlock
+	part = linearRcs
+	part = radialRCSTank
+	part = landerCabinSmall
+	part = advSasModule
+}
+Tech
+{
+	id = spaceExploration
+	state = Available
+	cost = 90
+	part = roverWheel2
+	part = ladder1
+	part = crewCabin
+}
+Tech
+{
+	id = miniaturization
+	state = Available
+	cost = 90
+	part = dockingPort3
+	part = adapterSmallMiniTall
+	part = adapterSmallMiniShort
+	part = Separator.0
+}
+Tech
+{
+	id = precisionEngineering
+	state = Available
+	cost = 160
+	part = RelayAntenna5
+	part = mediumDishAntenna
+	part = strutOcto
+	part = strutCube
+	part = structuralMiniNode
+	part = Decoupler.0
+	part = probeCoreHex.v2
+	part = probeCoreHex
+}
+Tech
+{
+	id = electronics
+	state = Available
+	cost = 300
+	part = TacWaterSplitter
+	part = TacWaterPurifierLarge375
+	part = TacWaterPurifierLarge
+	part = TacWaterPurifier
+	part = TacSabatierRecyclerLarge375
+	part = TacSabatierRecyclerLarge
+	part = TacSabatierRecycler
+	part = TacCarbonExtractorLarge375
+	part = TacCarbonExtractorLarge
+	part = TacCarbonExtractor
+	part = TacAirFilter
+	part = RelayAntenna50
+	part = sensorAccelerometer
+	part = HighGainAntenna
+}
+Tech
+{
+	id = automation
+	state = Available
+	cost = 550
+	part = RelayAntenna100
+	part = commDish
+	part = mk2DroneCore
+}
+Tech
+{
+	id = largeUnmanned
+	state = Available
+	cost = 1000
+	part = probeStackLarge
+}
+Tech
+{
+	id = unmannedTech
+	state = Available
+	cost = 300
+	part = probeCoreOcto2.v2
+	part = probeCoreOcto2
+	part = probeCoreCube
+}
+Tech
+{
+	id = advUnmanned
+	state = Available
+	cost = 550
+	part = HECS2.ProbeCore
+	part = probeStackSmall
+}
+Tech
+{
+	id = electrics
+	state = Available
+	cost = 90
+	part = spotLight2
+	part = spotLight1
+	part = foldingRadSmall
+	part = batteryBankMini
+	part = solarPanels5
+	part = probeCoreOcto.v2
+	part = probeCoreOcto
+	part = navlight
+}
+Tech
+{
+	id = advElectrics
+	state = Available
+	cost = 160
+	part = foldingRadMed
+	part = LgRadialSolarPanel
+	part = ksp.r.largeBatteryPack
+	part = solarPanels3
+	part = solarPanels1
+	part = solarPanels4
+	part = solarPanels2
+}
+Tech
+{
+	id = largeElectrics
+	state = Available
+	cost = 300
+	part = foldingRadLarge
+	part = FuelCell
+	part = batteryBank
+	part = largeSolarPanel
+}
+Tech
+{
+	id = specializedElectrics
+	state = Available
+	cost = 550
+	part = FuelCellArray
+	part = batteryBankLarge
+}
+Tech
+{
+	id = experimentalElectrics
+	state = Available
+	cost = 1000
+	part = rtg
+}
+Tech
+{
+	id = scienceTech
+	state = Available
+	cost = 300
+	part = sensorAtmosphere
+	part = SurveyScanner
+	part = SurfaceScanner
+	part = InfraredTelescope
+	part = KKAOSS.Water.SurfaceScanner
+}
+Tech
+{
+	id = ionPropulsion
+	state = Available
+	cost = 550
+	part = xenonTankRadial
+	part = xenonTankLarge
+	part = xenonTank
+	part = ionEngine
+}
+Tech
+{
+	id = advScienceTech
+	state = Available
+	cost = 550
+	part = sensorGravimeter
+	part = SmallTank
+	part = RadialOreTank
+	part = RadialDrill
+	part = MiniISRU
+	part = MiniDrill
+	part = ISRU
+}
+Tech
+{
+	id = experimentalScience
+	state = Available
+	cost = 1000
+	part = OrbitalScanner
+	part = LargeTank
+	part = KKAOSS.Water.OrbitalScanner
+}
+Tech
+{
+	id = advExploration
+	state = Available
+	cost = 160
+	part = telescopicLadderBay
+	part = telescopicLadder
+	part = Large.Crewed.Lab
+}
+Tech
+{
+	id = commandModules
+	state = Available
+	cost = 160
+	part = ServiceBay.250.v2
+	part = ServiceBay.250
+	part = mk2LanderCabin.v2
+	part = mk2LanderCabin
+	part = mk1-3pod
+	part = cupola
+}
+Tech
+{
+	id = specializedControl
+	state = Available
+	cost = 160
+	part = vernierEngine
+	part = rcsTankRadialLong
+	part = asasmodule1-2
+	part = avionicsNoseCone
+}
+Tech
+{
+	id = fieldScience
+	state = Available
+	cost = 300
+	part = roverWheel1
+	part = roverBody.v2
+	part = roverBody
+	part = seatExternalCmd
+}
+Tech
+{
+	id = advancedMotors
+	state = Available
+	cost = 550
+	part = roverWheel3
+	part = wheelMed
+}
+Tech
+{
+	id = landing
+	state = Available
+	cost = 90
+	part = SmallGearBay
+	part = parachuteLarge
+	part = LaunchEscapeSystem
+	part = landingLeg1
+	part = HeatShield2
+}
+Tech
+{
+	id = advLanding
+	state = Available
+	cost = 160
+	part = GearSmall
+	part = parachuteDrogue
+	part = landingLeg1-2
+	part = HeatShield3
+}
+Tech
+{
+	id = heavyLanding
+	state = Available
+	cost = 300
+	part = GearMedium
+	part = GearLarge
+	part = InflatableHeatShield
+}
+Tech
+{
+	id = aviation
+	state = Available
+	cost = 45
+	part = GearFree
+	part = GearFixed
+	part = MK1Fuselage
+	part = miniFuselage
+	part = miniJetEngine
+	part = Mark1Cockpit
+	part = structuralWing3
+	part = StandardCtrlSrf
+	part = wingConnector5
+	part = wingConnector2
+	part = miniIntake
+	part = airplaneTail
+	part = tailfin
+	part = sweptWing
+	part = landingskid
+	part = spadprop
+	part = hawkerprop
+	part = fokkerprop
+	part = 51prop
+}
+Tech
+{
+	id = aerodynamicSystems
+	state = Available
+	cost = 90
+	part = nacelleBody
+	part = JetEngine
+	part = Mark2Cockpit
+	part = sweptWing2
+	part = structuralWing2
+	part = wingConnector3
+	part = wingConnector
+	part = airplaneTailB
+	part = standardNoseCone
+	part = noseConeAdapter
+	part = CircularIntake
+	part = airScoop
+	part = hueytail
+	part = hueyprop
+	part = belltail
+	part = bellprop
+	part = zeroprop
+	part = yakprop
+	part = fighterProp
+	part = 109Prop
+	part = tbmProp
+	part = predatorprop
+	part = 152Prop
+	part = chaikaprop
+}
+Tech
+{
+	id = advAerodynamics
+	state = Available
+	cost = 160
+	part = smallHardpoint
+	part = sweptWing1
+	part = structuralWing4
+	part = elevon5
+	part = smallCtrlSrf
+	part = elevon3
+	part = elevon2
+	part = delta.small
+	part = deltaWing
+	part = wingConnector4
+	part = CanardController
+	part = airbrake1
+	part = powertail
+	part = powerprop
+	part = hiptail
+	part = hipprop
+	part = coaxialprop
+	part = chinookprop
+	part = blackhawkprop
+	part = spitfiremerlin
+	part = merlin
+	part = duplexcyclone
+	part = corsairprop
+}
+Tech
+{
+	id = heavyAerodynamics
+	state = Available
+	cost = 300
+	part = mk3CargoBayS
+	part = mk3CargoRamp
+	part = mk3CargoBayM
+	part = mk3FuselageLF.50
+	part = mk3FuselageLF.25
+	part = mk3CrewCabin
+	part = adapterMk3-Size2Slant
+	part = adapterMk3-Size2
+	part = turboFanSize2
+	part = mk3Cockpit.Shuttle
+	part = airlinerTailFin
+	part = airlinerMainWing
+	part = airlinerCtrlSrf
+	part = mk3galaxy
+}
+Tech
+{
+	id = experimentalAerodynamics
+	state = Available
+	cost = 550
+	part = mk3CargoBayL
+	part = mk3FuselageMONO
+	part = mk3FuselageLF.100
+	part = mk3FuselageLFO.50
+	part = mk3FuselageLFO.25
+	part = mk3FuselageLFO.100
+	part = adapterSize3-Mk3
+	part = adapterEngines
+	part = adapterMk3-Mk2
+	part = wingShuttleStrake
+	part = wingShuttleRudder
+	part = wingShuttleElevon2
+	part = wingShuttleElevon1
+	part = wingShuttleDelta
+}
+Tech
+{
+	id = supersonicFlight
+	state = Available
+	cost = 160
+	part = mk2CargoBayS
+	part = mk2FuselageShortLiquid
+	part = mk2FuselageShortLFO
+	part = mk2SpacePlaneAdapter
+	part = mk2.1m.Bicoupler
+	part = turboJet
+	part = mk2Cockpit.Standard
+	part = structuralWing
+	part = wingStrake
+	part = airramp
+}
+Tech
+{
+	id = highAltitudeFlight
+	state = Available
+	cost = 300
+	part = mk2DockingPort
+	part = mk2CrewCabin
+	part = mk2CargoBayL
+	part = structuralPylon
+	part = MK1IntakeFuselage
+	part = mk2FuselageShortMono
+	part = mk2Fuselage
+	part = mk2FuselageLongLFO
+	part = mk2.1m.AdapterLong
+	part = adapterSize2-Mk2
+	part = mk2Cockpit.Inline
+	part = ramAirIntake
+	part = IntakeRadialLong
+	part = KP12
+	part = herculesprop
+	part = 609prop
+}
+Tech
+{
+	id = hypersonicFlight
+	state = Available
+	cost = 550
+	part = radialEngineBody
+	part = toroidalAerospike
+	part = turboFanEngine
+	part = shockConeIntake
+	part = AdvancedCanard
+}
+Tech
+{
+	id = aerospaceTech
+	state = Available
+	cost = 1000
+	part = RAPIER
+}
+Tech
+{
+	id = generalConstruction
+	state = Available
+	cost = 45
+	part = largeAdapter
+	part = launchClamp1
+	part = Mk1FuselageStructural
+	part = Decoupler.2
+	part = strutConnector
+	part = MK1CrewCabin
+	part = passengeroor
+	part = mk1dronedoor
+}
+Tech
+{
+	id = advConstruction
+	state = Available
+	cost = 90
+	part = stackTriCoupler
+	part = stackTriCoupler.v2
+	part = largeAdapter2
+	part = radialDecoupler2
+	part = radialDecoupler1-2
+	part = Separator.1
+	part = rocketNoseCone
+	part = fairingSize1
+	part = rocketNoseCone.v2
+	part = pointyNoseConeA
+}
+Tech
+{
+	id = specializedConstruction
+	state = Available
+	cost = 160
+	part = stackBiCoupler.v2
+	part = stackBiCoupler
+	part = stackPoint1
+	part = dockingPort2
+	part = trussAdapter
+	part = Separator.2
+	part = fairingSize2
+	part = pointyNoseConeB
+}
+Tech
+{
+	id = composites
+	state = Available
+	cost = 300
+	part = dockingPortLateral
+	part = structuralPanel2
+	part = structuralPanel1
+	part = structuralIBeam1
+	part = structuralIBeam3
+	part = structuralIBeam2
+	part = Separator.3
+	part = fairingSize3
+	part = rocketNoseConeSize3
+}
+Tech
+{
+	id = metaMaterials
+	state = Available
+	cost = 550
+	part = dockingPortLarge
+	part = stationHub
+	part = adapterLargeSmallTri
+	part = adapterLargeSmallQuad
+	part = adapterLargeSmallBi
+}
+Tech
+{
+	id = largeVolumeContainment
+	state = Available
+	cost = 300
+	part = Size3To2Adapter.v2
+	part = Size3to2Adapter
+	part = Size3SmallTank
+	part = Size3MediumTank
+	part = Decoupler.3
+}
+Tech
+{
+	id = highPerformanceFuelSystems
+	state = Available
+	cost = 550
+	part = Size3LargeTank
+}
+Tech
+{
+	id = veryHeavyRocketry
+	state = Available
+	cost = 550
+	part = Clydesdale
+	part = Size3EngineCluster
+	part = Size3AdvancedEngine
+	part = SSME
+}
+Tech
+{
+	id = advMetalworks
+	state = Available
+	cost = 300
+	part = stackQuadCoupler
+	part = dockingPort1
+	part = trussPiece3x
+}
+Tech
+{
+	id = actuators
+	state = Available
+	cost = 160
+	part = GrapplingDevice
+}
+Tech
+{
+	id = fuelSystems
+	state = Available
+	cost = 90
+	part = fuelTank.long
+	part = Rockomax8BW
+	part = Rockomax32.BW
+	part = Rockomax16.BW
+	part = fuelLine
+}
+Tech
+{
+	id = advFuelSystems
+	state = Available
+	cost = 160
+	part = Rockomax64.BW
+	part = RCSFuelTank
+	part = rcsTankMini
+	part = RCSTank1-2
+	part = adapterSize2-Size1Slant
+	part = adapterSize2-Size1
+}
+Tech
+{
+	id = generalRocketry
+	state = Available
+	cost = 20
+	part = fuelTankSmall
+	part = solidBooster1-1
+	part = liquidEngine
+}
+Tech
+{
+	id = advRocketry
+	state = Available
+	cost = 45
+	part = fuelTank
+	part = radialLiquidEngine1-2
+	part = liquidEngine3.v2
+	part = liquidEngine3
+}
+Tech
+{
+	id = propulsionSystems
+	state = Available
+	cost = 90
+	part = miniFuelTank
+	part = externalTankCapsule
+	part = Mite
+	part = microEngine.v2
+	part = microEngine
+	part = liquidEngineMini.v2
+	part = liquidEngineMini
+}
+Tech
+{
+	id = precisionPropulsion
+	state = Available
+	cost = 160
+	part = externalTankToroid
+	part = externalTankRound
+	part = Shrimp
+	part = sepMotor1
+	part = omsEngine
+	part = radialEngineMini.v2
+	part = radialEngineMini
+	part = smallRadialEngine.v2
+	part = smallRadialEngine
+}
+Tech
+{
+	id = heavyRocketry
+	state = Available
+	cost = 90
+	part = HexCanLifeSupportWasteLarge
+	part = HexCanLifeSupportLarge
+	part = HexCanFoodLarge
+	part = HexCanDrinkingWaterLarge
+	part = HexCanOxygenLarge
+	part = TacWaterContainerLarge375
+	part = TacWaterContainerLarge
+	part = TacWasteContainerLarge375
+	part = TacWasteContainerLarge
+	part = TacOxygenContainerLarge375
+	part = TacOxygenContainerLarge
+	part = TacLifeSupportContainerLarge375
+	part = TacLifeSupportContainerLarge
+	part = TacFoodContainerLarge375
+	part = TacFoodContainerLarge
+	part = MassiveBooster
+	part = engineLargeSkipper
+	part = liquidEngine2-2.v2
+	part = liquidEngine2-2
+}
+Tech
+{
+	id = heavierRocketry
+	state = Available
+	cost = 160
+	part = Thoroughbred
+	part = Size2LFB
+	part = liquidEngine1-2
+}
+Tech
+{
+	id = nuclearPropulsion
+	state = Available
+	cost = 300
+	part = nuclearEngine
 }

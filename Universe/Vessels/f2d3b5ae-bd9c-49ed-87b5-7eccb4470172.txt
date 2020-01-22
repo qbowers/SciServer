@@ -1,0 +1,115 @@
+pid = f2d3b5aebd9c49ed87b57eccb4470172
+persistentId = 4019822055
+name = Ast. FIC-184
+type = SpaceObject
+sit = ORBITING
+landed = False
+skipGroundPositioning = False
+vesselSpawning = True
+launchedFrom = 
+landedAt = 
+displaylandedAt = 
+splashed = False
+met = 3202.1576860999962
+lct = 3202.1576860999962
+lastUT = -1
+distanceTraveled = 0
+root = 0
+lat = -0.18902745204863564
+lon = -130.49289942037311
+alt = 13356791722.043106
+hgt = -1
+nrm = 0,1,0
+rot = -0.364691466,0.0581765175,-0.185490355,0.910609066
+CoM = 0,0,0
+stg = 0
+prst = False
+ref = 0
+ctrl = False
+PQSMin = 0
+PQSMax = 0
+GroupOverride = 0
+OverrideDefault = False,False,False,False
+OverrideActionControl = 0,0,0,0
+OverrideAxisControl = 0,0,0,0
+OverrideGroupNames = ,,,
+altDispState = DEFAULT
+ORBIT
+{
+	SMA = 14243657740.702141
+	ECC = 0.056720987449681536
+	INC = 1.9103883147395153
+	LPE = 144.281615657722
+	LAN = 46.499110944291942
+	MNA = 0.57477677339730349
+	EPH = 19614849.864519045
+	REF = 0
+}
+PART
+{
+	name = PotatoRoid
+	cid = 0
+	uid = 0
+	mid = 0
+	persistentId = 1903711851
+	launchID = 0
+	parent = 0
+	position = 0,0,0
+	rotation = 0,0,0,1
+	mirror = 1,1,1
+	symMethod = Radial
+	istg = 0
+	resPri = 0
+	dstg = 0
+	sqor = 0
+	sepI = 0
+	sidx = 0
+	attm = 0
+	sameVesselCollision = False
+	srfN = None, -1
+	mass = 150
+	shielded = False
+	temp = -1
+	tempExt = 0
+	tempExtUnexp = 0
+	staticPressureAtm = 0
+	expt = 1
+	state = 0
+	attached = True
+	autostrutMode = Off
+	rigidAttachment = False
+	flag = 
+	rTrf = 
+	modCost = 0
+}
+ACTIONGROUPS
+{
+}
+DISCOVERY
+{
+	state = 1
+	lastObservedTime = 3202.1576860999962
+	lifetime = Infinity
+	refTime = Infinity
+	size = 4
+}
+FLIGHTPLAN
+{
+}
+CTRLSTATE
+{
+}
+VESSELMODULES
+{
+	FlightIntegrator
+	{
+	}
+	AxisGroupsModule
+	{
+	}
+	CommNetVessel
+	{
+		controlState = None
+		canComm = True
+	}
+}

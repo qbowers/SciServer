@@ -11,7 +11,7 @@
 address=::
 
 # port - The port the server listens on.
-port=6702
+port=6703
 
 # modpackMode - Specify the modpack type.
 # NONE: DMPClients cannot download modpacks from this server

@@ -60,7 +60,7 @@ startingFunds=25000
 startingReputation=0
 
 # startingScience - Starting Science
-startingScience=18468
+startingScience=16918
 
 # kerbalExp - Enable Kerbal Exp
 kerbalExp=True
